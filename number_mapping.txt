@@ -1,39 +1,39 @@
-People Mapping : 25/100
-Action Mapping : 11/25
+People Mapping : 56/100
+Action Mapping : 25/56
 
 
 00 : OO : Otto Octavious : Stabs you with his tentacles
-01 :
-02 :
-03 : OB : Oro Borous     : 
+01 : OJ : 
+02 : OR : Obul Reddy :
+03 : OB : Ouro Borous     : 
 04 : OA :
 05 : OS : Oscar Schindler : Cries holding onto your lap
 06 : OG :
 07 : OT : Otis
 08 : OK :
-09 : OP :
+09 : OP : Oscar Piastry :
 10 : JO :
-11 : JJ : 
+11 : JJ : JJ Larosh : Cuts out your tongue 
 12 : JR : Jeremy Renner : Shoots a big ass arrow
 13 : JB : Justin Beiber : Spits on you
 14 : JA : Jennifer Aniston : Pours coffee on you face
 15 : JS : (capt.) Jack Sparrow : 
 16 : JG :
 17 : JT : Joey Tribbiany : Eats your hand with a fork
-18 : JK :
+18 : JK : JK Simmons : Throws a drumset at you, the drum lands on your head
 19 : JP :
 20 : RO : Randy Orton : RKO
 21 : RJ : 
-22 : RR : Ryan Reynolds :
+22 : RR : Ryan Reynolds : 
 23 : RB : 
-24 : RA :
-25 : RS :
+24 : RA : Rowan Atkinson : 
+25 : RS : 
 26 : RG :
-27 : RT : Ravi Teja
-28 : RK : 
-29 : RP : 
-30 : BO : Bob Odenkirk
-31 : BJ :
+27 : RT : Ravi Teja :
+28 : RK : Rajni Kanth :
+29 : RP : Ram Pothineni :
+30 : BO : Bob Odenkirk : Puts a straw through your throat
+31 : BJ : 
 32 : BR : 
 33 : BB : Bruce Banner
 34 : BA :
@@ -43,59 +43,59 @@ Action Mapping : 11/25
 38 : BK : Bala Krishna
 39 : BP : Black Panther
 40 : AO :
-41 : AJ :
+41 : AJ : Angelina Jolie
 42 : AR : Arjun Reddy 
-43 : AB :
+43 : AB : Alia Bhatt :
 44 : AA : Allu Arjun 
 45 : AS : Arash Singh : Tears out your ears
-46 : AG : 
-47 : AT :
-48 : AK :
-49 : AP :
+46 : AG : Andrew Garfield : Drags you on a rifle mat
+47 : AT : Ashmi Tara Ma'am : 
+48 : AK : Aamir Khan : 
+49 : AP : AP from Ram Setu
 50 : SO :
-51 : SJ :
+51 : SJ : Scarlett Johanson : 
 52 : SR : Steve Rogers : Throws Capt. America shield at you
-53 : SB :
+53 : SB : Sam Bahadur
 54 : SA :
-55 : SS : Stephen Strange
-56 : SG : 
+55 : SS : Stephen Strange : Casts a spell on you to hit yourself
+56 : SG : Sourav Ganguly : Celebrates with his shirt off and throws it at you. and you catch it like Hardik Pandya.
 57 : ST :
-58 : SK :
-59 : SP :
+58 : SK : Salman Khan :
+59 : SP : Sai Pallavi :
 60 : GO :
 61 : GJ :
-62 : GR :
+62 : GR : Govinda Raju
 63 : GB :
 64 : GA :
-65 : GS :
+65 : GS : Gojo Sataru :
 66 : GG :
 67 : GT :
 68 : GK :
 69 : GP :
 70 : TO : Thor Odinson : Throws/Puts his hammen at/on you.
 71 : TJ :
-72 : TR :
-73 : TB :
+72 : TR : Tim Riggins : 
+73 : TB : Tamanna Bhatia :
 74 : TA : 
-75 : TS :
+75 : TS : Tony Stark : Transfers his armour from him to you
 76 : TG :
 77 : TT :
 78 : TK :
 79 : TP :
 80 : KO :
 81 : KJ :
-82 : KR :
-83 : KB :
-84 : KA :
-85 : KS :
+82 : KR : Keanu Reaves : Kills you with a fucking Pencil
+83 : KB : Kill Bill Pandey : Shoots you on the crotch
+84 : KA : Kajal Agarwal : 
+85 : KS : Kicha Sudeep : Feels taking your life from his foot (Eega)
 86 : KG :
 87 : KT :
-88 : KK :
-89 : KP :
+88 : KK : Katrina Kaif :
+89 : KP : King Pin : Smashes you while you are on floor
 90 : PO : Po : Sits on your face with his big butt
 91 : PJ : Pilla Jamindaar : 
-92 : PR : 
-93 : PB :
+92 : PR : Paul Rudd : Throws Pym Particle disks at you
+93 : PB : Patrick Bateman : kills you with a shiny axe
 94 : PA :
 95 : PS :
 96 : PG :
