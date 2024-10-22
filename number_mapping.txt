@@ -45,8 +45,8 @@ Action Mapping : 25/56
 1/6
 
 30 : BO : Bob Odenkirk : Puts a straw through your throat
-31 : BJ : 
-32 : BR : 
+31 : BJ : Bramha Ji
+32 : BR : Babu Rao
 33 : BB : Bruce Banner
 34 : BA :
 35 : BS :
@@ -55,8 +55,8 @@ Action Mapping : 25/56
 38 : BK : Bala Krishna
 39 : BP : Black Panther
 
-4/10
-1/4
+6/10
+1/6
 
 40 : AO :
 41 : AJ : Angelina Jolie
