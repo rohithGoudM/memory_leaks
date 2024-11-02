@@ -36,7 +36,7 @@ Action Mapping : 25/56
 23 : RB : 
 24 : RA : Rowan Atkinson : 
 25 : RS : 
-26 : RG :
+26 : RG : Ross Geller :
 27 : RT : Ravi Teja :
 28 : RK : Rajni Kanth :
 29 : RP : Ram Pothineni :
