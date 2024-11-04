@@ -4,7 +4,7 @@ Action Mapping : 25/56
 
 00 : OO : Otto Octavious : Stabs you with his tentacles
 01 : OJ : 
-02 : OR : Obul Reddy :
+02 : OR : Osei Ramulamma :
 03 : OB : Ouro Borous     : 
 04 : OA :
 05 : OS : Oscar Schindler : Cries holding onto your lap
