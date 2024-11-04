@@ -8,10 +8,10 @@ Action Mapping : 25/56
 03 : OB : Ouro Borous     : 
 04 : OA :
 05 : OS : Oscar Schindler : Cries holding onto your lap
-06 : OG :
+06 : OG : Original Gangster : kills you with Katana, blood spatters
 07 : OT : Otis
-08 : OK :
-09 : OP : Om Puri :
+08 : OK : 
+09 : OP : Om Puri (Singh is King) :
 
 5/10
 2/5
@@ -24,8 +24,8 @@ Action Mapping : 25/56
 15 : JS : (capt.) Jack Sparrow : 
 16 : JG :
 17 : JT : Joey Tribbiany : Eats your hand with a fork
-18 : JK : JK Simmons : Throws a drumset at you, the drum lands on your head
-19 : JP :
+18 : JK : JK Simmons/John Krasinski : Throws a drumset at you, the drum lands on your head
+19 : JP : Jessica Pearson
 
 7/10
 6/7
@@ -33,13 +33,13 @@ Action Mapping : 25/56
 20 : RO : Randy Orton : RKO
 21 : RJ : 
 22 : RR : Ryan Reynolds : 
-23 : RB : 
+23 : RB : Rocky Balboa :
 24 : RA : Rowan Atkinson : 
 25 : RS : 
 26 : RG : Ross Geller :
 27 : RT : Ravi Teja :
 28 : RK : Rajni Kanth :
-29 : RP : Ram Pothineni :
+29 : RP : Ram Pothineni/Robert Pattinson :
 
 6/10
 1/6
@@ -50,8 +50,8 @@ Action Mapping : 25/56
 33 : BB : Bruce Banner
 34 : BA :
 35 : BS :
-36 : BG :
-37 : BT :
+36 : BG : Bujji Gaadu
+37 : BT : Ben Tennyson
 38 : BK : Bala Krishna
 39 : BP : Black Panther
 
@@ -61,12 +61,12 @@ Action Mapping : 25/56
 40 : AO :
 41 : AJ : Angelina Jolie
 42 : AR : Arjun Reddy 
-43 : AB : Alia Bhatt :
+43 : AB : Alia Bhatt : typewriter teesi nethina kodthadi
 44 : AA : Allu Arjun 
 45 : AS : Arash Singh : Tears out your ears
 46 : AG : Andrew Garfield : Drags you on a rifle mat
 47 : AT : Ashmi Tara Ma'am : 
-48 : AK : Aamir Khan : 
+48 : AK : Aamir Khan : Ethi padestadu (dangal)
 49 : AP : AP from Ram Setu
 
 9/10
@@ -89,12 +89,12 @@ Action Mapping : 25/56
 60 : GO :
 61 : GJ :
 62 : GR : Govinda Raju
-63 : GB :
+63 : GB : Gavin Belson :
 64 : GA :
 65 : GS : Gojo Sataru :
-66 : GG :
+66 : GG : Green Goblin 
 67 : GT :
-68 : GK :
+68 : GK : Subbaraj from Khaleja : Parigettadame
 69 : GP :
 
 2/10
@@ -109,13 +109,13 @@ Action Mapping : 25/56
 76 : TG :
 77 : TT :
 78 : TK :
-79 : TP :
+79 : TP : Tapsee Pannu :
 
 4/10
 2/4
 
 80 : KO :
-81 : KJ :
+81 : KJ : Kim Jong : Missiles launch chestad
 82 : KR : Keanu Reaves : Kills you with a fucking Pencil
 83 : KB : Kill Bill Pandey : Shoots you on the crotch
 84 : KA : Kajal Agarwal : 
@@ -133,10 +133,10 @@ Action Mapping : 25/56
 92 : PR : Paul Rudd : Throws Pym Particle disks at you
 93 : PB : Patrick Bateman : kills you with a shiny axe
 94 : PA :
-95 : PS :
+95 : PS : Partha Sarathi
 96 : PG :
 97 : PT :
-98 : PK : 
+98 : PK : Posani Krishna :
 99 : PP : Peter Parker : Shoots web on your face
 
 5/10
