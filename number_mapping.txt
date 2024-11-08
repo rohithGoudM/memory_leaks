@@ -22,7 +22,7 @@ Action Mapping : 25/56
 13 : JB : Justin Beiber : Spits on you
 14 : JA : Jennifer Aniston : Pours coffee on you face
 15 : JS : (capt.) Jack Sparrow : 
-16 : JG :
+16 : JG : Jai Ganesh :
 17 : JT : Joey Tribbiany : Eats your hand with a fork
 18 : JK : JK Simmons/John Krasinski : Throws a drumset at you, the drum lands on your head
 19 : JP : Jessica Pearson
@@ -76,7 +76,7 @@ Action Mapping : 25/56
 51 : SJ : Scarlett Johanson : 
 52 : SR : Steve Rogers : Throws Capt. America shield at you
 53 : SB : Sam Bahadur
-54 : SA :
+54 : SA : Shahid Afridi :
 55 : SS : Stephen Strange : Casts a spell on you to hit yourself
 56 : SG : Sourav Ganguly : Celebrates with his shirt off and throws it at you. and you catch it like Hardik Pandya.
 57 : ST :
