@@ -1,5 +1,5 @@
-People Mapping : 56/100
-Action Mapping : 25/56
+People Mapping : 83/100
+Action Mapping : __/83
 
 
 00 : OO : Otto Octavious : Stabs you with his tentacles
@@ -13,7 +13,7 @@ Action Mapping : 25/56
 08 : OK : 
 09 : OP : Om Puri (Singh is King) :
 
-5/10
+7/10
 2/5
 
 10 : JO :
@@ -27,7 +27,7 @@ Action Mapping : 25/56
 18 : JK : JK Simmons/John Krasinski : Throws a drumset at you, the drum lands on your head
 19 : JP : Jay Pritchett : Flies a remote airplane into your nose
 
-7/10
+9/10
 6/7
 
 20 : RO : Randy Orton : RKO
@@ -41,7 +41,7 @@ Action Mapping : 25/56
 28 : RK : Rajni Kanth :
 29 : RP : Ram Pothineni/Robert Pattinson :
 
-6/10
+8/10
 1/6
 
 30 : BO : Bob Odenkirk : Puts a straw through your throat
@@ -55,7 +55,7 @@ Action Mapping : 25/56
 38 : BK : Bala Krishna
 39 : BP : Black Panther
 
-6/10
+10/10
 1/6
 
 40 : AO :
@@ -65,7 +65,7 @@ Action Mapping : 25/56
 44 : AA : Allu Arjun 
 45 : AS : Arash Singh : Tears out your ears
 46 : AG : Andrew Garfield/Adam Gilchrist : Drags you on a rifle mat
-47 : AT : Ashmi Tara Ma'am : 
+47 : AT : A-Train : 
 48 : AK : Aamir Khan : Ethi padestadu (dangal)
 49 : AP : AP from Ram Setu
 
@@ -83,11 +83,11 @@ Action Mapping : 25/56
 58 : SK : Salman Khan :
 59 : SP : Sai Pallavi :
 
-7/10
+8/10
 3/7
 
 60 : GO : Gary Oldman :
-61 : GJ :
+61 : GJ : Gandhi Ji :
 62 : GR : Govinda Raju
 63 : GB : Gavin Belson :
 64 : GA :
@@ -97,7 +97,7 @@ Action Mapping : 25/56
 68 : GK : Subbaraj from Khaleja : Visaalamaina veepuni podichi paad dhobbuthaadu
 69 : GP : Glenn Philips :
 
-2/10
+8/10
 0/2
 
 70 : TO : Thor Odinson : Throws/Puts his hammen at/on you.
@@ -107,11 +107,11 @@ Action Mapping : 25/56
 74 : TA : 
 75 : TS : Tony Stark : Transfers his armour from him to you
 76 : TG :
-77 : TT :
+77 : TT : Tamy Taylor
 78 : TK :
 79 : TP : Tapsee Pannu :
 
-4/10
+7/10
 2/4
 
 80 : KO : Kevin O'Leary
@@ -125,7 +125,7 @@ Action Mapping : 25/56
 88 : KK : Katrina Kaif :
 89 : KP : King Pin : Smashes you while you are on floor
 
-6/10
+8/10
 4/6
 
 90 : PO : Po : Sits on your face with his big butt
@@ -134,10 +134,10 @@ Action Mapping : 25/56
 93 : PB : Patrick Bateman : kills you with a shiny axe
 94 : PA :
 95 : PS : Partha Sarathi
-96 : PG :
-97 : PT :
+96 : PG : Prabhakar Goud 
+97 : PT : Pankaj Tripathi
 98 : PK : Posani Krishna :
 99 : PP : Peter Parker : Shoots web on your face
 
-5/10
+9/10
 4/5
