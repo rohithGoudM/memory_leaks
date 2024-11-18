@@ -72,7 +72,7 @@ Action Mapping : __/83
 9/10
 2/9
 
-50 : SO :
+50 : SO : Sam Obisanya
 51 : SJ : Scarlett Johanson : 
 52 : SR : Steve Rogers : Throws Capt. America shield at you
 53 : SB : Sam Bahadur
