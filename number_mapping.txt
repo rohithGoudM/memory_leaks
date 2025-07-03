@@ -1,5 +1,5 @@
-People Mapping : 92/100
-Action Mapping : __/83
+People Mapping : 97/100
+Action Mapping : __/97
 
 
 00 : OO : Otto Octavious : Stabs you with his tentacles
@@ -14,7 +14,7 @@ Action Mapping : __/83
 09 : OP : Om Puri (Singh is King) :
 
 8/10
-2/5
+2/8
 
 10 : JO : Joe (G&G)
 11 : JJ : JJ Larosh : Cuts out your tongue 
@@ -28,7 +28,7 @@ Action Mapping : __/83
 19 : JP : Jay Pritchett : Flies a remote airplane into your nose
 
 10/10
-6/7
+6/10
 
 20 : RO : Randy Orton : RKO
 21 : RJ : Radio Jockey (Pradeep) :
@@ -42,7 +42,7 @@ Action Mapping : __/83
 29 : RP : Ram Pothineni/Robert Pattinson :
 
 10/10
-1/6
+1/10
 
 30 : BO : Bob Odenkirk : Puts a straw through your throat
 31 : BJ : Bramha Ji
@@ -56,7 +56,7 @@ Action Mapping : __/83
 39 : BP : Black Panther
 
 10/10
-1/6
+1/10
 
 40 : AO :
 41 : AJ : Angelina Jolie
@@ -76,42 +76,42 @@ Action Mapping : __/83
 51 : SJ : Scarlett Johanson : 
 52 : SR : Steve Rogers : Throws Capt. America shield at you
 53 : SB : Sam Bahadur
-54 : SA : Shahid Afridi :
+54 : SA : Shahid Afridi / Shohaib Akhtar : Throws a beamer at you
 55 : SS : Stephen Strange : Casts a spell on you to hit yourself
 56 : SG : Shubham Gairolla : Zones out
-57 : ST :
+57 : ST : Sachin Tendulkar : Puts on a helmet
 58 : SK : Salman Khan :
 59 : SP : Sai Pallavi :
 
-9/10
-3/7
+10/10
+4/10
 
 60 : GO : Gary Oldman :
 61 : GJ : Gandhi Ji :
 62 : GR : Govinda Raju
 63 : GB : Gavin Belson :
-64 : GA :
+64 : GA : Gautam Adani :
 65 : GS : Gojo Sataru :
 66 : GG : Green Goblin 
 67 : GT : Gwen Tennyson :
 68 : GK : Subbaraj from Khaleja : Visaalamaina veepuni podichi paad dhobbuthaadu
 69 : GP : Glenn Philips :
 
-9/10
+10/10
 0/2
 
 70 : TO : Thor Odinson : Throws/Puts his hammen at/on you.
 71 : TJ : The Joker :
 72 : TR : Tim Riggins : 
 73 : TB : Tamanna Bhatia :
-74 : TA : 
+74 : TA : Tinku Anna :
 75 : TS : Tony Stark : Transfers his armour from him to you
-76 : TG :
+76 : TG : Tanmay Ghosh :
 77 : TT : Tamy Taylor
 78 : TK : Tony Kroos
 79 : TP : Tapsee Pannu :
 
-8/10
+10/10
 2/4
 
 80 : KO : Kevin O'Leary : Eats up like a shark
@@ -132,12 +132,12 @@ Action Mapping : __/83
 91 : PJ : Pilla Jamindaar : 
 92 : PR : Paul Rudd : Throws Pym Particle disks at you
 93 : PB : Patrick Bateman : kills you with a shiny axe
-94 : PA :
+94 : PA : PA (Amitabh Bachan)
 95 : PS : Partha Sarathi
 96 : PG : Prabhakar Goud 
 97 : PT : Pankaj Tripathi
 98 : PK : Posani Krishna :
 99 : PP : Peter Parker : Shoots web on your face
 
-9/10
+10/10
 4/5
