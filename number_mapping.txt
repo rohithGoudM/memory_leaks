@@ -1,22 +1,22 @@
-People Mapping : 97/100
-Action Mapping : __/97
+People Mapping : 99/100
+Action Mapping : __/99
 
 
 00 : OO : Otto Octavious : Stabs you with his tentacles
 01 : OJ : 
 02 : OR : Obul Reddy :
 03 : OB : OuroBorous     : Sends you through time door
-04 : OA :
+04 : OA : Omar Abdullah
 05 : OS : Oscar Schindler : Cries holding onto your lap
 06 : OG : Original Gangster : kills you with Katana, blood spatters
 07 : OT : Otis
 08 : OK : Obi Wan-Kanobi
 09 : OP : Om Puri (Singh is King) :
 
-8/10
+9/10
 2/8
 
-10 : JO : Joe (G&G)
+10 : JO : Jenna Ortega (Wednesday)
 11 : JJ : JJ Larosh : Cuts out your tongue 
 12 : JR : Jeremy Renner : Shoots a big ass arrow
 13 : JB : Justin Beiber : Spits on you
@@ -39,7 +39,7 @@ Action Mapping : __/97
 26 : RG : Ross Geller :
 27 : RT : Ravi Teja :
 28 : RK : Rajni Kanth :
-29 : RP : Ram Pothineni/Robert Pattinson :
+29 : RP : Robert Pattinson :
 
 10/10
 1/10
@@ -48,8 +48,8 @@ Action Mapping : __/97
 31 : BJ : Bramha Ji
 32 : BR : Babu Rao
 33 : BB : Bruce Banner
-34 : BA : Ben Affleck
-35 : BS : Ben Stokes
+34 : BA : Bruce Almighty
+35 : BS : Bhagat Singh
 36 : BG : Bujji Gaadu
 37 : BT : Ben Tennyson
 38 : BK : Bala Krishna
@@ -58,7 +58,7 @@ Action Mapping : __/97
 10/10
 1/10
 
-40 : AO :
+40 : AO : Asaduddin Owaisi
 41 : AJ : Angelina Jolie
 42 : AR : Arjun Reddy 
 43 : AB : Alia Bhatt : typewriter teesi nethina kodthadi
@@ -69,7 +69,7 @@ Action Mapping : __/97
 48 : AK : Aamir Khan : Ethi padestadu (dangal)
 49 : AP : AP from Ram Setu
 
-9/10
+10/10
 2/9
 
 50 : SO : Sam Obisanya
@@ -117,7 +117,7 @@ Action Mapping : __/97
 80 : KO : Kevin O'Leary : Eats up like a shark
 81 : KJ : Kim Jong : Missiles launch chestad
 82 : KR : Keanu Reaves : Kills you with a fucking Pencil
-83 : KB : Kill Bill Pandey : Shoots you on the crotch
+83 : KB : Kaala Bhairava : 
 84 : KA : Kajal Agarwal : 
 85 : KS : Kicha Sudeep : Feels taking your life from his foot (Eega)
 86 : KG : karen Gillan : 
@@ -134,7 +134,7 @@ Action Mapping : __/97
 93 : PB : Patrick Bateman : kills you with a shiny axe
 94 : PA : PA (Amitabh Bachan)
 95 : PS : Partha Sarathi
-96 : PG : Prabhakar Goud 
+96 : PG : Peter Griffin
 97 : PT : Pankaj Tripathi
 98 : PK : Posani Krishna :
 99 : PP : Peter Parker : Shoots web on your face
